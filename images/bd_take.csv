@@ -1,0 +1,30 @@
+Qualidade e Serviço;TAKE-AWAY;A mesma qualidade ao melhor preço para estar consigo em todas as circunstâncias;;;;;;;;;;
+Loja;Código;Familia;Sub Família;Regiao;Descrição;Composição;PVP1;Foto;status;ordem na Gfamilia;ordem na familia;Ordem Regiao
+1;2222222;SUGESTAO;Do dia;;Feijoada;;7,5;;0;1;101;
+1;2222250;SUGESTAO;Do dia;;Cacete de Cereais com Queijo;;3,5;;0;1;102;
+1;2;3;4;5;6;7;8;9;10;11;12;13
+1;2222223;Pratos;Diário (Emb.:750 ml);;Bacalhau á Presidente       ;Bacalhau, camarão, batata palha em molho de natas com broa de milho crocante;5,8;BacalhauTA.png;1;2;1000;
+1;2222224;Pratos;Diário (Emb.:750 ml);;Caril de Camarão             ;Caril vermelho da Tailândia com camarão, arroz selvagem e frutos secos;6,6;CarilCamaraoTA.png;1;2;1001;
+1;2222225;Pratos;Diário (Emb.:750 ml);;Bochecha de Porco Guisada;Bochechas de porco guisadas, arroz e batata frita (Saco de 50g);5,6;BochechaTA.png;1;2;1002;
+1;2222226;Pratos;Diário (Emb.:750 ml);;Salada de Salmão;Mistura de alfaces e rúcula temperada, salmão fumado, pesto da casa e mozarela ;4,5;SaladaSalmaoTA.png;1;2;1003;
+1;2222227;Pratos;Diário (Emb.:750 ml);;Salada de Frango;Mistura de alfaces e rúcula temperada, frango, tomate seco, fruto secos e croutons;4,5;SaladaFrangoTA.png;1;2;1004;
+1;2222228;Acompanhamentos;Quente;;Dose de Arroz             ;;1,75;;1;3;20;
+1;2222229;Acompanhamentos;Quente;;Sopa;;2;;1;3;21;
+1;2222230;Acompanhamentos;Quente;;Salada Mista;;2,75;;1;3;22;
+1;2222231;Acompanhamentos;Embalado;;"Batata Frita ""lisa"" ";50g;1;;1;3;23;
+1;2222232;Acompanhamentos;Embalado;;"Batata Frita ""lisa""";180g;1,9;;1;3;24;
+1;2222233;Acompanhamentos;Embalado;;Batata Doce Frita;50g;1,6;;1;3;25;
+1;2222234;Acompanhamentos;Embalado;;Batata Doce Frita;100g;2,2;;1;3;26;
+1;2222235;Acompanhamentos;Embalado;;Pipoca Doce;115g;1,6;;1;3;27;
+1;2222236;Acompanhamentos;Pão;;"Carcaça de ""Lenha""";;0,6;;1;3;28;
+1;2222237;Acompanhamentos;Pão;;Bola Albarroba;;0,7;;1;3;29;
+1;2222238;Acompanhamentos;Pão;;Cacete  Milho e Girassol;;0,8;;1;3;30;
+1;2222239;Acompanhamentos;Pão;;Cacete  Cereais;;0,9;;0;3;31;
+1;2222242;Bebida;Sumos;;Refrigerante Lata;;1,75;;1;4;180;
+1;2222243;Bebida;Sumos;;Nectares;;1,75;;1;4;181;
+1;2222244;Bebida;Água;;Água Natural;33 Cl;0,85;;1;4;182;
+1;2222245;Bebida;Água;;Água Natural;1,5 L;1,25;;1;4;183;
+1;2222246;Bebida;Água;;Água Gasificada;;1,55;;1;4;184;
+1;2222247;Bebida;Vinhos;;Sob Consulta;Na nossa loja;;;1;4;185;
+1;2222240;Sobremesa;Um miminho;;Mousse de Lima;;2,5;;1;5;90;
+1;2222241;Sobremesa;Um miminho;;Mousse de Chocolate;;2,5;;1;5;91;
