@@ -1,10 +1,2 @@
-posterior/
+file/*
 *.code-workspace
-last/
-scss/
-*.config
-vendor/
-*.txt
-senha.php
-images/*.psd
-confidencial
