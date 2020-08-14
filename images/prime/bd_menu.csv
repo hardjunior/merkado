@@ -1,0 +1,231 @@
+Confortante;O Nosso Menu;Elaborado com maior cuidado e dedicação, para proporcionar-lhe um momento deliciosamente confortante.;Caso seja alérgico ou sofra de algum tipo de intolerãncia alimentrar, solicite por favor mais informções aos nosso colaboradores.;alergeneos.png;;;;;;;;;;;
+Loja;Código;Familia;;Regiao;Descrição;Composição;PVP1;Foto;status;ordem na Gfamilia;ordem na familia;Ordem Regiao;;;
+1;100406;EMENTA;MENUS;;Refeição_Menu MK19.1;;19,5;;0;1;0;;;;
+1;100407;EMENTA;MENUS;;Refeição_Menu MK19.2;;21,5;;0;1;0;;;;
+1;100408;EMENTA;MENUS;;Refeição_Menu MK19.3;;23,5;;0;1;0;;;;
+1;100409;EMENTA;MENUS;;Refeição_Menu MK19.4;;25;;0;1;0;;;;
+1;101;EMENTA;COUVERT;;Pão;;0,75;;1;1;1;;;;
+1;656;EMENTA;COUVERT;;Pão Sementes;;2,05;;1;1;1;;;;
+1;102;EMENTA;COUVERT;;Manteiga;;0,85;;1;1;1;;;;
+1;104;EMENTA;COUVERT;;Azeitonas Chefe;;0,85;;1;1;1;;;;
+1;105;EMENTA;COUVERT;;Azeite Gourmet;;0,95;;1;1;1;;;;
+1;713;EMENTA;ENTRADAS;;Tábua de Enchidos;;5,45;;1;1;2;;;;
+1;100230;EMENTA;ENTRADAS;;Queijo Seco;;3,95;;1;1;2;;;;
+1;725;EMENTA;ENTRADAS;;"Ovos ""desmanchados"" com farinheira";;4,95;;1;1;2;;;;
+1;678;EMENTA;ENTRADAS;;Gambas à Guilho;;6,5;;1;1;2;;;;
+1;100308;EMENTA;ENTRADAS;;Salsichinha Toscana;;4,95;;1;1;2;;;;
+1;202;EMENTA;SOPAS & SALADAS;;Salada de frango crocante com frutos secos;Mistura de alfaces e rúcula temperada, frango, tomate seco, fruto secos;9,55;saladafrango.jpeg;1;1;3;;;;
+1;203;EMENTA;SOPAS & SALADAS;;Salada de Salmão com Pesto;Mistura de alfaces e rúcula temperada, salmão fumado, pesto da casa e mozarela;11,55;saladasalmao.jpeg;1;1;3;;;;
+1;204;EMENTA;SOPAS & SALADAS;;Salada do Chef;Mistura de alfaces e rúcula temperada, gambas flamejadas, pesto da casa ;12,55;saladaxef.jpeg;1;1;3;;;;
+1;734;EMENTA;SOPAS & SALADAS;;Creme de Legumes;;2,75;;1;1;3;;;;
+1;735;EMENTA;SOPAS & SALADAS;;Creme de Legumes (ADULTO);;2,75;;0;1;3;;;;
+1;407;EMENTA;CARIL;;Caril de Camarão;Caril vermelho da Tailândia com camarão, arroz selvagem e frutos secos;15,95;Caril_g.jpg;1;1;4;;;;
+1;712;EMENTA;CARIL;;Caril de Porco;Caril vermelho da Tailândia com carne de porco, legumes, manga, ananás e arroz;12,95;carilporco.jpeg;1;1;4;;;;
+1;717;EMENTA;CARIL;;Caril Frango;Caril vermelho da Tailândia com cubinhos de frango, tomate seco e arroz ;11,95;;1;1;4;;;;
+1;100270;EMENTA;CARIL;;Caril de Vaca;Caril vermelho da Tailândia com carne de vaca, legumes, manga, ananás e arroz;13,95;;0;1;4;;;;
+1;100307;EMENTA;CARIL;;Caril de Legumes;Caril vermelho da Tailândia com legumes salteados, frutas tropicais e frutos secos;10,95;;1;1;4;;;;
+1;402;EMENTA;MASSAS;;Linguine Negro à Algarvia;Linguine al nero di seppia com camarão, choquinhos e pesto da casa;11,95;linguinipreto.jpeg;1;1;5;;;;
+1;729;EMENTA;MASSAS;;<i>Taglierini Verdi </i> com Camarão ao Alho;Tagliatelle al pesto com camarão, mexilhão, coentros, azeite e alho;11,95;LinguiniVerde.jpeg;1;1;5;;;;
+1;730;EMENTA;MASSAS;;Esparguete Picante com Camarão ;Esparguete Picante com Camarão, molho de caril, tomate cherry e frutos secos;11,95;;0;1;5;;;;
+1;731;EMENTA;MASSAS;;Talharim á Merkado;Tagliatelle com molho de cogumelos, frango, cogumelos e bacon;10,95;talharim.jpeg;1;1;5;;;;
+1;774411;EMENTA;MASSAS;;"Tagliatelle <i>del Capo</i> <span class='text-success ' style='font-size:15px;'>  <i>  Novidade</i> </span>";Tagliatelle com camarão e molho de limão e natas;11,95;tagliatele.jpeg;1;1;5;;;;
+1;732;EMENTA;Para os nossos Pequeninos: ;Para os nossos Pequeninos: ;Bolonhesa - Kids;Massa com carne de bovino á Bolonhesa;6,95;bolonhesakid.jpeg;1;1;8;;;;
+1;742;EMENTA;CARNE;;Miminhos de Porco;Bochechas de porco guisadas em vinho verde tinto, arroz, legumes e batata frita;12,95;bochechaporca.jpeg;1;1;6;;;;
+1;100259;EMENTA;CARNE;;Miminhos de Vaca;Bochechas de vaca guisadas acompanhado com legumes e puré de batata;13,95;;0;1;6;;;;
+1;100350;EMENTA;CARNE;;Baby Tomahawk;Tomahawk de Vitela de Leite, cogumelos salteados com camarão e batata frita (Aprox: 450g);21,95;TAMAHOK.jpg;1;1;6;;"Baby Tomahawk <span class='text-danger ' style='font-size:15px;'>(Esgotado no fornecedor)</span>";;
+1;743;EMENTA;CARNE;;"Carne Maturada Grelhada<span class='text-info ' style='font-size:15px;'>  (sob consulta)</span>";Entrecôte, Costoleta ou Vazia Maturada, cogumelos salteados com camarão e batata frita  (Aprox: 550g);23;maturada.jpeg;1;1;6;;;;
+1;740;EMENTA;CARNE;;Frango Tropical;Medalhões de Frango grelhados, Toscana em molho doce de abacaxi e amêndoa, legumes e batata frita;12,95;frangotropical.jpeg;1;1;6;;;;
+1;602;EMENTA;CARNE;;Picanha América do Sul, na Tábua;Picanha grelhada acompanhada com arroz de feijão, frutas tropicais e batata frita  (Aprox: 250g);15,95;picanhalatina.jpeg;1;1;6;;;;
+1;745;EMENTA;CARNE;;Picanha Maturada, na Tábua;Picanha grelhada acompanhada com arroz de feijão, couve salteada com bacon e batata frita  (Aprox: 300g);16,95;;0;1;6;;;;
+1;603;EMENTA;CARNE;;Bife à Merkado;Bife da Vazia grelhado, camarão, com cebola caramelizada e batata frita (Aprox: 300g);15,95;bifemk.jpeg;1;1;6;;;;
+1;727;EMENTA;Para os nossos Pequeninos: ;Para os nossos Pequeninos: ;Hamburguer - Kids;Hambúrguer no prato com batata frita e arroz.;5,95;hamkid.jpeg;1;1;8;;;;
+1;728;EMENTA;Para os nossos Pequeninos: ;Para os nossos Pequeninos: ;Frango - Kids;Bife de frango no prato com batata frita e arroz.;5,95;frangokid.jpeg;1;1;8;;;;
+1;100436;EMENTA;CARNE;;TORNEDÓ;;12,95;;0;1;6;;;;
+1;715;EMENTA;CARNE;;Bifes de Frango MK;;10,95;;0;1;6;;;;
+1;100377;EMENTA;PEIXE;;Camarão á Merkado;Camarão com molho de azeite, alho e coentros acompanhado com arroz branco e batata frita;12,95;camaraomko.jpeg;1;1;7;;;;
+1;744;EMENTA;PEIXE;;Arroz Negro á Chef;Camarão,  queijo gorgonzola, abacaxi, noz e arroz negro;13,95;arroznegro.jpeg;1;1;7;;;;
+1;736;EMENTA;PEIXE;;Polvo á Lagareiro com Camarão;Polvo grelhado com alho e azeite, batatas a murro, legumes e camarão;13,95;polvo.jpeg;1;1;7;;;;
+1;693;EMENTA;PEIXE;;Moqueca de Peixe com Camarão;Moqueca de Peixe com camarão, pirão e arroz branco;13,95;MOQUECA.jpg;1;1;7;;;;
+1;737;EMENTA;PEIXE;;Bacalhau à Presidente;Bacalhau, camarão, batata palha, molho de natas e broa de milho crocante, acompanhado com salada;10,95;bacalhau.jpeg;1;1;7;;;;
+1;201;EMENTA;ACOMPANHAMENTOS;;Salada Mista;;2,75;;1;1;10;;;;
+1;644;EMENTA;ACOMPANHAMENTOS;;Prato de Quinoa;;2,75;;1;1;10;;;;
+1;645;EMENTA;ACOMPANHAMENTOS;;Taça de Arroz;;1,75;;1;1;10;;;;
+1;646;EMENTA;ACOMPANHAMENTOS;;Taça Legumes;;1,75;;1;1;10;;;;
+1;647;EMENTA;ACOMPANHAMENTOS;;Dose de Batata;;1,75;;1;1;10;;;;
+1;100431;EMENTA;ACOMPANHAMENTOS;;Ovo estrelado;;1;;1;1;10;;;;
+1;405;EMENTA;DO CHEFE (por encomenda);;Tiborna de Bacalhau (3 pax);Lascas de bacalhau assado com broa de milho, batata a murro e açorda de bacalhau e camarão;40;Tiborna.jpeg;1;1;9;;;;
+1;505;EMENTA;DO CHEFE (por encomenda);;Rabo de Boi á Merkado(2 pax);Rabo de Boi guisado com mandioca;35;;1;1;9;;;;
+1;100269;EMENTA;DO CHEFE (por encomenda);;Fondue MK (misto);;15,9;;0;1;9;;;;
+1;100430;BEBIDAS;Aguas;;Água Natural pequena;;1,75;;1;2;100;;;;
+1;100041;BEBIDAS;Aguas;;Água Natural grande;;2,2;;1;2;100;;;;
+1;100043;BEBIDAS;Aguas;;Água Gaseificada grande;;2,2;;1;2;100;;;;
+1;100425;BEBIDAS;Aguas;;Água Gaseificada pequena;;1,55;;1;2;100;;;;
+1;100040;BEBIDAS;Aguas;;Agua 25cl;;1;;0;2;100;;;;
+1;676;BEBIDAS;Aguas;;Agua 75 cl MK;;1,25;;0;2;100;;;;
+1;643;BEBIDAS;Aguas;;Água Gaseificada 33cl;;2;;0;2;100;;;;
+1;100424;BEBIDAS;Aguas;;Garrafa Agua 1,5;;2,5;;0;2;100;;;;
+1;622;BEBIDAS;Sumos;;Refrigerante Lata;;1,75;;1;2;101;;;;
+1;623;BEBIDAS;Sumos;;Sumo do Dia;;2,64;;0;2;101;;;;
+1;100348;BEBIDAS;Sumos;;Nectares;;1,75;;1;2;101;;;;
+1;100411;BEBIDAS;Aguas;;FEVER-TREE;;2,85;;0;2;101;;;;
+1;100047;BEBIDAS;Cervejas;;Somersby;;2,35;;1;2;102;;;;
+1;100415;BEBIDAS;Cervejas;;CERVEJA MINI;;1;;0;2;102;;;;
+1;100428;BEBIDAS;Cervejas;;Artesanal;Consulte o nosso colaborador sobre os artigos disponiveis;4;;1;2;102;;;;
+1;739;BEBIDAS;Cervejas;;Super Bock ;;1,65;;1;2;102;;;;
+1;641;BEBIDAS;Sangrias;;Sangria Branca;;9;;1;2;103;;;;
+1;640;BEBIDAS;Sangrias;;Sangria Tinta;;9;;1;2;103;;;;
+1;642;BEBIDAS;Sangrias;;Sangria de Frutos Vermelhos;;10,5;;1;2;103;;;;
+1;100106;BEBIDAS;Sangrias;;Sangria de Espumante;;12;;1;2;103;;;;
+1;100102;BEBIDAS;Caipirinhas;;Caipirinha;;4,5;;0;2;103;;;;
+1;100103;BEBIDAS;Caipirinhas;;Caipiroska;;4,5;;0;2;103;;;;
+1;721;SOBREMESAS;Da Casa;;Pudim de Leite Condensado;;3,5;pudim.jpeg;1;3;11;;;;
+1;722;SOBREMESAS;Da Casa;;Delícia de Coco;;3,25;deliciac.jpeg;1;3;11;;;;
+1;100361;SOBREMESAS;Da Casa;;Romeu e Julieta;;3,5;romeu.jpeg;1;3;11;;;;
+1;720;SOBREMESAS;Mousse;;Mousse de Lima;;3,25;mousselima.jpeg;1;3;20;;;;
+1;723;SOBREMESAS;Mousse;;Mousse de Chocolate;;3,25;;1;3;20;;;;
+1;719;SOBREMESAS;Cheesecake;;Cheesecake com Frutos Vermelhos;;3,25;cfev.jpg;1;3;30;;;;
+1;738;SOBREMESAS;Cheesecake;;Cheesecake com Oreo®;;3,5;coreo.jpeg;1;3;30;;;;
+1;632;SOBREMESAS;Fruta;;Ananás com Vinho do Porto;;3,85;;1;3;40;;;;
+1;677;SOBREMESAS;Fruta;;Fruta do Dia;;3;;0;3;40;;;;
+1;724;CAFETARIA;Quente;;Café Descafeinado;;1,05;;1;4;200;;;;
+1;100060;CAFETARIA;Quente;;Café;;1,05;;1;4;200;;;;
+1;100066;CAFETARIA;Quente;;Chá;;1,5;;1;4;200;;;;
+1;100178;CAFETARIA;Quente;;Carioca de Limão;;0,65;;1;4;200;;;;
+1;100423;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Da Casa";Da Casa;1808 - Tinto Colheita 375ml;Vinho da Casa Tinto (1808 Lisboa Tinto);4,8;;1;5;2000;;Vinho Tinto;Da Casa;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Da Casa"
+1;100427;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Da Casa";Da Casa;1808 - Tinto Colheita 750ml;Vinho da Casa Tinto (1808 Lisboa Tinto);7,9;;1;5;2000;;Vinho Tinto;Da Casa;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Da Casa"
+1;100401;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Barrancoa 750 ml;"Produtor: Ribafreixo <br>Castas: Aragonez, Touriga Nacional e Alicante Bouschet<br>Estágio: Parcial em Barricas de Carvalho Francês<br>Notas de Prova:
+Vinho     pleno   de   aromas   de   ameixa   fresca, mirtilos e especiarias, Macio, fresco, elegante com
+taninos também eles suaves e elegantes";9;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100403;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Barrancoa 375 ml;"Produtor: Ribafreixo <br>Castas: Aragonez, Touriga Nacional e Alicante Bouschet<br>Estágio: Parcial em Barricas de Carvalho Francês<br>Notas de Prova:
+Vinho     pleno   de   aromas   de   ameixa   fresca, mirtilos e especiarias, Macio, fresco, elegante com
+taninos também eles suaves e elegantes";5,8;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100389LP;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;.COM Premium - Cabaço;"Produtor: Tiago Cabaço Winery <br> Castas: registo alegre e frutado, dividido entre a estrutura  da  casta  Alicante  Bouschet, a fruta  madura  do  Aragonez,  o toque  ligeiramente  apimentado  da  Trincadeira  e a  delicadeza  floral  da Touriga Nacional.<br> Notas de Prova: Cor  vermelha  rubi  intensa.  Frutado  e  expressivo, com  notas  fortes  de ameixa  e  pimenta  preta,  apresenta-se  estruturado  e  denso, profundamente equilibrado e revigorante, suave nos taninos, terminando tenso e vivo graças à sua boa frescura. 
+";9,2;;0;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100336LP;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Carlos Reynolds;Produtor: Reynolds Wine Growers<br>Cor: Carmim Aroma: fresco, cheio de fruta preta. Na boca: boa concentração, simultaneamente elegante e sedoso. Fruta madura, fresca e focada em ameixa e cereja preta. Taninos suaves que roporcionam excelente equilíbrio ao vinho. Bom comprimento com final elegante. <br>Recomendamos o seu consumo com as refeições do dia-a-dia. É um produto natural e saudável, que deve ser consumido com moderação, como parte da nossa dieta. Deve ser servido a uma temperatura de 16 /18 oC.;12,9;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100368;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Pousio Selection;Produtor: Herdade do Monte da Ribeira<br> Castas: Alicante Bouschet, Syrah e Trincadeira <br> Notas de Prova: Vinho de cor rubi profundo, com aromas a fruta madura  e  ligeiras  notas  fumadas. Vinho  de sabores elegantes e textura macia.;12,5;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100369;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Pousio Reserva;"Produtor: Herdade do Monte da Ribeira <br>Castas: Alicante Bouschet, Touriga Nacional e Petit Syrah
+<br>Estágio: 12 meses em barricas de carvalho francês<br>Notas de Prova: De cor granada intenso, apresenta um aroma de frutos     vermelhos     maduros,     num     perfume complexo.  Na  boca  revela  especiarias,  cacau  e cedro.";19;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100375;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Monte Cascas Grande Reserva Alentejo;Produtor: CascaWines<br>Castas: Alicante Bouschet (85%) e Petit Verdot (15%)<br>Estágio: 18 meses em barricas novas de carvalho francês<br>Notas de Prova: Vinho  de  cor  Vermelho  profundo.  Fruta  preta gulosa com frescura numa estrutura densa com um final a chocolate preto.;42;GrandeReservaAlentejoTinto.png;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100370;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Pousio Alicante Bouschet;"Produtor: Herdade do Monte da Ribeira<br>
+Castas: Alicante Bouschet<br>
+Estágio: 12 meses em barricas de carvalho francês<br>
+Notas de Prova: Vinho de cor granada, com aromas de compota de ameixas, e amoras pretas, especiarias e tosta. Na   boca,   a   frescura   característica   e   a   sua elegância conferem-lhe distinção.";26,5;;1;5;2001;;Vinho Tinto;Alentejo;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100438;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Colheita Biológico 187ml;;4,6;;1;5;2002;;;;
+1;100437;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Colheita Biológico 750ml;;12;;1;5;2002;;;;
+1;a100427;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;1808 - Tinto Colheita 750ml;"Produtor: CascaWines<br>Castas: Tinta Roriz (95%), Rufete (5%)<br>
+Notas de Prova: Vinho de cor vermelho profundo. No nariz sente notas de framboesa, alcaçuz e cereja preta. Equilibrado com estrutura firme e acabamento persistente";8,5;;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100277;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Colheita 750 ml;"Produtor: CascaWines<br>Castas: Touriga Nacional (40%), Touriga Franca (40%), Tinta Roriz (20%)<br>Estágio: 40% do lote estagiou 9 meses em barricas de carvalho francês<br>Notas de Prova:
+Vinho de cor vermelho profundo.Fruta preta e especiarias. Estrutura equilibrada e um final persistente.";11;ColheitaDouroTinto.png;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100298;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Colheita 375 ml;"Produtor: Vale da Veiga<br>Castas: Touriga Nacional, Touriga Franca, Tinta Roriz<br>Estágio: 6 meses em barricas de carvalho francês<br>Notas de Prova: Vinho de cor rubi intensa.
+Aroma jovem a frutos silvestres, taninos suaves e um paladar macio e aveludado.";6,75;;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100278;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Vale da Veiga Colheita;"Produtor: Vale da Veiga<br>Castas: Touriga Nacional, Touriga Franca, Tinta Roriz e Vinhas Velhas (70 a 100 anos)<br>Estágio: 12 meses em barricas de carvalho francês<br>Notas de Prova: Vinho de cor rubi intensa.
+Aroma vivos de frutos vermelhos maduros e um final elegante.";11,5;;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100279;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Vale da Veiga Reserva;"Produtor: Vale da Veiga<br>Castas: Touriga Nacional, Touriga Franca, Tinta Roriz e Vinhas Velhas (70 a 100 anos)<br>Estágio: 12 meses em barricas de carvalho francês<br>Notas de Prova: Vinho de cor rubi intensa.
+Aroma vivos de frutos vermelhos maduros e um final elegante.";15;;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100275;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Reserva;Produtor: CascaWines<br>Castas: Touriga Franca (70%), Touriga Nacional (20%), Tinta Roriz (10%)<br>Estágio: 12 meses em barricas de carvalho francês <br>Notas de Prova: Vinho de cor vermelho profundo. Aroma a fruta preta, esteva, cereais e mocha. Encorpado,  complexo  com  notas  a  fruta  preta  e  esteva.  Estrutura firme, elegante e com um final de boca fresco e persistente.;18,9;MonteCascasReservaDouroTinto2013.png;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100276;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Grande Reserva;Produtor: CascaWines<br>Castas: Vinhas Velhas (100% mistura de castas tradicionais - mais de 20 castas diferentes)<br>Estágio: 18 meses em barricas de carvalho francês<br>Notas de Prova: Vinho de cor vermelho profundo. Muito complexo com notas de amoras, cereais, madeira e minerais integradas com chocolate preto.;42;GrandeReservaDouroTinto.png;1;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100378;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;MÃOS;Produtor: Mãos e Irmãos <br>Castas: Touriga Nacional (50%), Tinta Roriz (50%).<br>Notas de Prova: De cor violeta ruby concentrada o “MÃOS” tinto é um vinho com aroma predominante a flores de laranjeira com toques de amoras selvagens. Apresenta um equilíbrio perfeito entre a frescura do Baixo Corgo e o calor das castas Touriga Nacional (50%) e Tinta Roriz (50%).;15,9;;0;5;2002;;Vinho Tinto;Douro / Beira Interior;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100426;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Taleiga;Produtor: SoitoWines<br>Castas: Tinta Roriz, Touriga Nacional, Alfrocheiro e Jaen<br>Notas de Prova:Vinho  jovem  com  um  corpo  bem  estruturado,  presença  de  taninos firmes, bom volume de boca, elevado requinte e persistência, Grande aptidão gastronómica.;11,5;;1;5;2003;;Vinho Tinto;Dão;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100256;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Soito Colheita;"Produtor: SoitoWines<br>Castas:  Touriga-Nacional (60 %), Tinta-Roriz (15%), Alfrocheiro (15%) e Jaen (10%)<br>Estágio: 9 meses em barricas de carvalho francês e americano<br>Notas de Prova:
+Vinho de cor vermelha com nuances tijoladas. Apresenta aroma delicado com expressão de notas de frutos vermelhos bem maduros, cássis e amora, casados com um leve toque de pimenta preta, cacau e baunilha.<br>Revela  um  corpo  bem  estruturado  com  presença  de  taninos  firmes, bom volume de boca, elevado requinte e persistência.";16,5;;1;5;2003;2;Vinho Tinto;Dão;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100286;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Soito Reserva;"Produtor: SoitoWines <br>
+Castas:  Touriga-Nacional (65 %), Alfrocheiro (20%) e Tinta-Roriz (15%)<br>
+Estágio: 10 meses em barricas de carvalho francês<br> Notas de Prova: Vinho de cor grená com reflexos violeta<br>
+Delicado e completo com notas de amora preta e mirtilo aliadas a nuances mentoladas e de especiarias finas.
+Na boca revela excelente equilíbrio, o sabor é aveludado e intenso, grandioso,  com  presença  de  taninos  ricos  e sedosos.  Com  estrutura complexa e harmoniosa, revela uma mineralidade única aliada a um fim de boca longo.";45;;1;5;2003;;Vinho Tinto;Dão;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100287;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Lisboa";Lisboa;Cabo da Roca Cabernet Sauvignon;"Produtor: CascaWines<br>Castas: Cabernet Sauvignon (100%)<br>Estágio: 12 meses em barricas de carvalho francês
+<br>Notas de Prova: Vinho de cor vermelho profundo.
+Groselha, ameixa, cereja preta e especiarias. Notas de tabaco, cedro e anis, num final longo e elegante";29;Cabernet.02.png;1;5;2004;;Vinho Tinto;Lisboa;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Lisboa"
+1;100351;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Lisboa";Lisboa;Bote Reserva Lisboa;Produtor: CascaWines<br>Castas: Touriga Nacional (80%) e Merlot (20%) <br>Estágio: 12 meses em barricas usadas de carvalho francês <br>Notas de Prova:Cor vermelho profundo, no nariz, fruta preta, com notas apimentadas e nuances de café e caramelo.;15,8;;1;5;2004;;Vinho Tinto;Lisboa;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Lisboa"
+1;100371;ADEGA;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Bairrada";Bairrada;Cabo da Roca Bairrada;Produtor: CascaWines<br>Castas:  Baga<br>Estágio: 12 meses em barricas usadas de carvalho francês<br>Notas de Prova: Vinho  de  cor  de  frutas  vermelhas,  no  nariz,  frutas  vermelhas,  com notas de especiarias, na boca revela-se elegante com frutas vermelhas com notas de resina numa estrutura firme e resistente.;15,8;;1;5;2005;;Vinho Tinto;Bairrada;"Vinho Tinto<br>&nbsp;&nbsp;&nbsp;Bairrada"
+1;100420;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Da Casa";Da Casa;1808 - Branco Colheita 375 ml;Vinho da Casa Branco (1808 Lisboa Branco);4,8;;1;5;3000;;Vinho Branco;Da Casa;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Da Casa"
+1;100290;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Da Casa";Da Casa;Cascas - Branco Colheita 750 ml;Vinho da Casa Branco (Cascas Lisboa Branco);7,9;;1;5;3000;;Vinho Branco;Da Casa;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Da Casa"
+1;100372;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Pousio Selection;Produtor: Herdade do Monte da Ribeira <br>Castas: Antão Vaz, Verdelho e Alvarinho <br>Notas de Prova: Vinho  de  cor  esverdeada,  com  perfume  fresco  e  citrino  e  sabores vibrantes e persistentes;12,5;pou_sele_1.jpg;1;5;3001;1;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100373;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Pousio Reserva;"Produtor: Herdade do Monte da Ribeira<br>
+Castas: Arinto, Verdelho e Alvarinho<br>
+Estágio: 3 meses em barricas de carvalho francês<br>
+Notas de Prova: Vinho de cor dourada, apresenta um aroma a citrinos e mel, num perfume complexo, com uma frescura surpreendente, e sabores a polpa de frutas com um leve toque a baunilha.";19;;1;5;3001;1;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100388;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;.COM Premium - Cabaço;Produtor: Tiago Cabaço<br> Castas: Antão Vaz, Verdelho e Viognier<br> Notas de Prova: Cor amarela limão. Mais frutado que floral, entusiástico na expressão aromática, vivo e fresco, mantém um lado mais estruturado e denso que lhe acrescenta seriedade e volume. Viçoso e estimulante, tenso e seguro, termina vigoroso e muito fresco.;9,2;;0;5;3001;;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100404;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Barrancoa 750 ml;"Produtor: Ribafreixo<br>
+Castas: Antão Vaz, Siria e Arinto<br>
+Notas de Prova: Vinho com notas de frutas tropicais, citrinos e alguma vinha verde mesclados,   macio,   equilibrado,   com   uma   frescura   marcante, mostrando uma longa e agradável persistência";9;;1;5;3001;;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100405;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Barrancoa 375 ml;"Produtor: Ribafreixo<br>
+Castas: Antão Vaz, Siria e Arinto<br>
+Notas de Prova: Vinho com notas de frutas tropicais, citrinos e alguma vinha verde mesclados,   macio,   equilibrado,   com   uma   frescura   marcante, mostrando uma longa e agradável persistência";5,8;;1;5;3001;;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100421;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo";Alentejo;Carlos Reynolds;"Produtor: Reynolds Wine Growers<br>Cor: Limão Aroma, exuberante aroma a fruta amarela, misturadas com notas leves florais. <br> Na boca: Volumoso, redondo, cheio de fruta  com uma acidez firme e fácil de beber.
+Não muito gelado é um perfeito aperitivo, combinado ainda com queijos frescos, frutos do mar e todos os pratos de peixe. Deve ser servido a uma temperatura de 11ºC a 12ºC.";12,9;;1;5;3001;1;Vinho Branco;Alentejo;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Alentejo"
+1;100363;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Cascas - Branco Douro 750 ml;Produtor: CascaWines<br>Castas: Síria, Gouveio, 50% Malvasia Fina<br>Notas de Prova: Vinho de cor limão. Com aromas de flores brancas, frutos cítricos e notas de pêra. Na   boca   nota-se   fruta   de   caroço   e   limão.   Meio   encorpado   e equilibrado.;8,5;DouroBranco2015.jpg;1;5;3002;;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100365;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Vale da Veiga Colheita;Produtor: Vale da Veiga<br>Castas: Rabigato, Códega do Larinho e Viosinho<br>Notas de Prova: Vinho de cor citrina. Com aroma frutado e floral, um paladar fresco e macio com um final leve e elegante.;10,5;;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100288;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte Cascas Colheita;Produtor: CascaWines<br> Castas: Códega de Larinho (50%), Gouveio (30%) e Viosinho (20%)<br> Estágio: Estágio em borras finas durante 2 meses <br>Notas de Prova: Vinho de cor limão. Aroma de alperce, pêssego, flores brancas e notas de pêra. Fruta de caroço e limão. Equilibrado, medianamente encorpado com um final persistente.;11;ColheitaDouroBranco.01.png;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100282;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Vale da Veiga Vinhas Velhas;Produtor: Vale da Veiga<br> Castas: Vinhas Velhas multicastas, tradicionais do Douro, com idades entre os 70 e os 100 anos<br> Notas de Prova: Vinho de cor citrina. Com aroma fresco e frutado e um sabor complexo com um final longo e persistente.;12,9;;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;a100376;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;1808 Reserva Douro;"Produtor: CascaWines<br> Castas: Rabigato e Códega do Larinho<br>  Estágio: 12 meses em Carvalho Francês <br> Notas de Prova:
+Vinho de cor Cítrica, no aroma apresenta notas de frutas de caroço, na boca é um vinho guloso com uma textura cremosa.";15,5;;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;A100378LP;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;MÃOS;Produtor: Mãos e Irmãos <br>Castas: Gouveio, Rabigato, Viosinho e Códega do larinho.<br>Notas de Prova: “MÃOS” branco é um vinho gastronómico com aroma predominante a flores brancas, folhas de chá e notas cítricas. Apresenta um equilíbrio perfeito entre a frescura das castas Gouveio (30%) e Rabigato (30%) e a complexidade do Viosinho (40%).;16,9;;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;100281;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior";Douro / Beira Interior;Monte de Cascas Reserva;"Produtor: CascaWines<br>Castas: Viosinho (90%) e Gouveio (10%)<br>
+Estágio: 12 meses Bâtonnage <br>Notas de Prova: Vinho de cor limão. Mineral, com notas de ananás, pêssego e pêra. Textura cremosa, com notas de baunilha e ananás com uma acidez muito equilibrada.";18,9;;1;5;3002;;Vinho Branco;Douro / Beira Interior;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Douro / Beira Interior"
+1;a100426;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Taleiga;Produtor: SoitoWines<br>Castas: Encruzado, Malvasia Fina, Cerceal- e Bical<br>Notas de Prova: Vinho jovem e elegante, leve com uma óptima aptidão gastronómica.;11,5;;1;5;3003;;Vinho Branco;Dão;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100256;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Soito Colheita;"Produtor: SoitoWines<br>
+Castas: Encruzado e Malvasia-fina<br>
+Estágio: Estágio em barrica com Bâtonnage <br>Notas de Prova:
+Apresenta  uma  cor  citrina  palha,  aroma  fresco  e  complexo com notas de flor de laranjeira,  pêra e lima, ladeadas por fragâncias   de   baunilhas   finas.   Revela   uma   estrutura
+elegante com bom equilíbrio e harmonia";16,5;;1;5;3003;2;Vinho Branco;Dão;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100292;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão";Dão;Soito Encruzado Reserva;"Produtor: SoitoWines<br>Castas: Encruzado (100%)<br>Estágio: Estágio parcial em barricas de carvalho francês com Bâtonnage durante 6 meses<br>Notas de Prova:
+Apresenta  uma  cor  citrina  palha  com  reflexos  esverdeados. Aroma fresco e complexo com notas de flor de laranjeira, pêra e lima, ladeadas por fragâncias de baunilhas finas.
+Revela   uma   estrutura   elegante   com   bom   equilíbrio   e
+harmonia com final longo e persistente.";29;Encruzado.png;1;5;3003;;Vinho Branco;Dão;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Dão"
+1;100376;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Lisboa";Lisboa;1808 Reserva Lisboa;"Produtor: CascaWines<br>
+Castas: Arinto e Viognier<br>
+Estágio: 3 meses em Carvalho Francês <br>Notas de Prova: Vinho de cor amarela, com aroma expressivo e mineral, fruta branca de  caroço,  com  notas  de  especiarias  e  fruto  secos,  com  um  final persistente e elegante.";15,5;;1;5;3004;;Vinho Branco;Lisboa;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Lisboa"
+1;100341;ADEGA;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Bucelas";Bucelas;Cabo da Roca Bucelas;"Produtor: CascaWines<br>
+Castas:  Arinto<br>
+Estágio: 6 meses em barricas usadas de carvalho francês<br>
+Notas de Prova: Vinho de cor amarelo, no nariz é expressivo, mineral, fruta branca e de  caroço,  com  notas  de  especiarias  e  frutos  secos.  Na  boca,  sabor citrino  e  saboroso  com  fruta  de  caroço  com  um  final  persistente  e elegante.";15,8;;1;5;3005;;Vinho Branco;Bucelas;"Vinho Branco<br>&nbsp;&nbsp;&nbsp;Bucelas"
+1;100294;ADEGA;Vinho Rosé;;Cascas - Douro 750 ml;"Produtor: CascaWines<br>
+Castas: Tinta Roriz (60%), Touriga Franca (30%) e Tinta Barroca (10%)<br>
+Notas de Prova: Vinho de cor rosé. Notas de cereja e violeta. Fresco e vibrante, com doçura a frutos de cereja e um sabor suave.";8;CascasDouroRose2016.01.jpg;1;5;3006;;Vinho Rosé;Douro;"Vinho Rosé<br>&nbsp;&nbsp;&nbsp;Douro"
+1;100295;ADEGA;Vinho Rosé;;Monte Cascas Colheita - Douro;"Produtor: CascaWines<br>
+Castas: Touriga Nacional (60%), Touriga Franca (30%), Tinta Roriz (10%)<br>
+Estágio: Estágio em borras finas durante 2 meses <br>Notas de Prova: Vinho de cor rosé. Notas de flores. Fresco com framboesas e morangos. Estrutura equilibrada com final longo.";11;ColheitaDouroRose.02.png;1;5;3006;;Vinho Rosé;Douro;"Vinho Rosé<br>&nbsp;&nbsp;&nbsp;Douro"
+1;100367;ADEGA;Vinho Rose;;Pousio Selection ;"Produtor: Herdade do Monte da Ribeira<br>
+Castas: Aragonez, Trincadeira e Touriga Nacional<br>
+Notas de Prova: Vinho  de  cor  salmão,  com  aromas  e  sabor  a  framboesas  frescas  e morangos.";12,5;;1;5;3006;;Vinho Rosé;Douro;"Vinho Rosé<br>&nbsp;&nbsp;&nbsp;Douro"
+1;100037;ADEGA;Vinho Verde;;Quinta Beiredos A.C;;10,5;;0;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100038;ADEGA;Vinho Verde;;Conde Vilar Alvarinho;;18;;0;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100296;ADEGA;Vinho Verde;;Quinta de Beiredos Grande Escolha;;13,5;;0;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100297;ADEGA;Vinho Verde;;Vinho Verde;;8,9;;0;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100354;ADEGA;Vinho Verde;;Pequenos Rebentos Trajadura;Produtor: Márcio Lopes<br> Castas: Alvarinho e Trajadura<br> Notas de Prova: Vinho de cor esverdeada, de aroma citrino, mineral e ligeiro vegetal. Na  boca  apresenta  um  ligeiro  fervilhar  que  o  torna  vibrante  e apetecível, resultando num final longo e intenso.;8,9;PequenosRebentosAlvarinhoTrajadura01.jpg;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100355;ADEGA;Vinho Verde;;Pequenos Rebentos Loureiro;Produtor: Márcio Lopes <br> Castas: Loureiro<br> Notas de Prova: Este Loureiro apresenta um aroma floral, com uma cor esverdeada, e muito refrescante;9,5;;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100356;ADEGA;Vinho Verde;;Pequenos Rebentos Alvarinho;;15,9;;0;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100357;ADEGA;Vinho Verde;;Avesso da Montanha;"Produtor: Quinta do Ferro <br>
+Castas: Avesso <br>
+Notas de Prova: Cor citrina. Aroma muito delicado com notas cítricas. Equilibrado com a acidez viva e bem integrada proporciona um belo final de boca.";10,5;;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100358;ADEGA;Vinho Verde;;Cascas - Verde 750 ml;"Produtor: CascaWines<br>
+Castas: Loueriro (40%), Arinto (40%) e Avesso (20%)<br>
+Notas de Prova: Vinho de cor verde limão. Com aromas a maçãs verdes e citrinos.
+Na  boca  nota-se  uma  ligeira  gasificação  que  realça  as  notas  de citrinos e fruta, revela uma acidez equilibrada.";8,5;;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100359;ADEGA;Vinho Verde;;Ferro;Produtor: Quinta do Ferro <br>Castas: Avesso e Arinto<br> Notas de Prova: Cor citrina. Aroma jovem e frutado. Corpo leve e delicioso, perfil moderno e convidativo para beber com prazer.;7,9;;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100422;ADEGA;Vinho Verde;;Casa Barroso Alvarinho Reserva;"Produtor: Casa Barroso <br> Castas: Alvarinho <br> Notas de Prova: Este  Alvarinho  concentra  o  vegetal  da  pelicula,  a  intensidade  de aromas, o equilíbrio e ao mesmo tempo o lado delicado desta casta. Vinho de cor esverdeada, com aroma intenso, com toque tropical e ligeiro  vegetal.  Vinho  bem  equilibrado  na  boca.  Termina  longo  e
+persistente.";15,9;;1;5;4000;;Vinho Verde;0;"Vinho Verde<br>&nbsp;&nbsp;&nbsp;0"
+1;100071;ADEGA;Espumantes;;Quinta de Beiredos A.C.;;16,5;;0;5;6000;;;;
+1;100120;ADEGA;Espumantes;;Ruinart Blanc Blanc;;140;;0;5;6000;;;;
+1;100299;ADEGA;Espumantes;;Qta Ferro - Sparkling;"Produtor: Quinta do Ferro<br>
+Castas: Avesso<br>
+Estágio: Estágio mínimo de 12 meses em borras finas, mais 12 meses em garrafa<br>
+Notas de Prova: Cor citrina. Aroma jovem com notas cítricas, apresenta bolha pequena  e  persistente.  Muito  guloso  e  equilibrado  na  boca, macio e versátil com final refrescante.";12,5;;1;5;6000;;;;
+1;100300;ADEGA;Espumantes;;Qta Ferro - Tinto;"Produtor: Quinta do Ferro<br>
+Castas: Vinhão<br>
+Estágio: Estágio mínimo de 12 meses em borras finas, mais 12 meses em garrafa
+Notas de Prova: Cor  vermelho granada.  Aroma a frutos silvestres com  notas vegetais.  Na  boca  é  equilibrado  com  acidez  viva  e  taninos macios a proporcionar um final longo.";15,5;EspumanteBruto.jpg;1;5;6000;;;;
+1;100301;ADEGA;Espumantes;;Qta Ferro - Reserva;"Produtor: Quinta do Ferro<br>
+Castas: Avesso<br>
+Estágio: Estágio mínimo de 12 meses em borras finas, mais 18 meses em garrafa<br>
+Notas de Prova: Cor citrina. Aroma elegante com notas cítricas e frutos secos, apresenta   bolha   muito   pequena   e   persistente.   É   fino   e equilibrado na boca, com a acidez bem inserida no conjunto, a provocar um óptimo e prolongado final.";16,9;;1;5;6000;;;;
+1;100302;ADEGA;Espumantes;;Qta Ferro - Super Reserva;"Produtor: Quinta do Ferro<br>
+Castas: Vinhão<br>
+Estágio: Estágio mínimo de 12 meses em borras finas, mais 24 meses em garrafa<br>
+Notas de Prova: Cor citrina. Aroma complexo com notas de tosta e frutos secos, apresenta bolha fina e persistente. Boa prova de boca a revelar óptima   acidez,   estrutura   e   volume,   terminado   longo, desvendado assim todo o seu nível.";23;;1;5;6000;;;;
+1;100360;ADEGA;Espumantes;;Altitude;"Produtor: CascaWines<br>
+Castas: Touriga Nacional (75%) e Malvasia Fina (30%)<br>
+Estágio: Estágio mínimo de 8 meses em borras finas, mais 30 meses em garrafa <br>
+Notas de Prova: Vinho de cor limão.
+Espumante complexo com notas de cereais, brioche e maçã, na boca revela-se cremoso e crocante num final citrino e persistente.";24;;1;5;6000;;;;
