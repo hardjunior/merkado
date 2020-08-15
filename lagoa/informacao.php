@@ -17,7 +17,7 @@
 												<span class='icon-instagram'></span>
 											</div>
 											<a href='https://www.instagram.com/merkadonalagoa/'>
-												@merkadorestaurante
+												@merkadonalagoa
 											</a>
 										</div>
 										<br>
@@ -59,7 +59,7 @@
 											<h3 class='m1b-4' style='font-size:30px;'>Faça sua marcação</h3>
 										</div>
 									</div>
-										<form action='email.php' class='appointment-form' method='POST'  autocomplete='off'  enctype='multipart/form-data'>
+										<form action='lagoa/email.php' class='appointment-form' method='POST'  autocomplete='off'  enctype='multipart/form-data'>
                    							<input type='hidden' name='razao' value='Reserva de Mesa' required>
 											<div class='d-md-flex'>
 												<div class='form-group'>

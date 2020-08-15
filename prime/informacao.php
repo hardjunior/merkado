@@ -59,7 +59,7 @@
 											<h3 class='m1b-4' style='font-size:30px;'>Faça sua marcação</h3>
 										</div>
 									</div>
-										<form action='email.php' class='appointment-form' method='POST'  autocomplete='off'  enctype='multipart/form-data'>
+										<form action='prime/email.php' class='appointment-form' method='POST'  autocomplete='off'  enctype='multipart/form-data'>
                    							<input type='hidden' name='razao' value='Reserva de Mesa' required>
 											<div class='d-md-flex'>
 												<div class='form-group'>

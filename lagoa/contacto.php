@@ -23,11 +23,14 @@
                     <div class="col-md-12 mb-3">
                         <p><span>Website:</span> <a href="https://merkadorestaurante.pt/lagoa">merkadorestaurante.pt/lagoa</a></p>
                     </div>
+                    <div class="col-md-12 mb-3">
+                        <p><span>Coord:</span> <a href="https://www.google.com/maps/dir//39.4224639,-9.2295348/@39.4218879,-9.2299613,18z/data=!4m2!4m1!3e0?hl=pt-PT">39.4224949,-9.2295188</a></p>
+                    </div>
                 </div>
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-6 ftco-animate">
-                <form action='email.php' class='appointment-form' method='POST' autocomplete='off' enctype='multipart/form-data'>
+                <form action='lagoa/email.php' class='appointment-form' method='POST' autocomplete='off' enctype='multipart/form-data'>
                     <input type="hidden" name='razao' value='Contacto' required>
                     <div class="row">
                         <div class="col-md-6">
@@ -57,4 +60,4 @@
 </section>
 
 <!-- <div id="map"></div> -->
-<iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=avenida%20dos%20engenheiros%2C%2013%2C%20venda%20do%20valador%2C%20venda%20do%20pinheiro&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=39.4223914%2C-9.2296662&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>

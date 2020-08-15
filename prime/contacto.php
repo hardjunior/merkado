@@ -27,7 +27,7 @@
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-6 ftco-animate">
-                <form action='email.php' class='appointment-form' method='POST' autocomplete='off' enctype='multipart/form-data'>
+                <form action='prime/email.php' class='appointment-form' method='POST' autocomplete='off' enctype='multipart/form-data'>
                     <input type="hidden" name='razao' value='Contacto' required>
                     <div class="row">
                         <div class="col-md-6">

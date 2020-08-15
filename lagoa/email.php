@@ -1,11 +1,5 @@
 <?php
 	$row = 1;
-	if (file_exists("../images/lagoa/emails.csv"))
-	echo 1;
-	else {
-		echo 2;
-	}
-	exit;
 if (($handle = fopen("../images/lagoa/emails.csv", "r")) !== FALSE) {
 	while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
 		$num = count($data);

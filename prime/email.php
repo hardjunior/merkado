@@ -1,11 +1,5 @@
 <?php
 	$row = 1;
-	if (file_exists("../images/prime/emails.csv"))
-	echo 1;
-	else {
-		echo 2;
-	}
-	exit;
 if (($handle = fopen("../images/prime/emails.csv", "r")) !== FALSE) {
 	while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
 		$num = count($data);
