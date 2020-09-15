@@ -21,11 +21,15 @@ include_once "traducao.php";
 	// $route->submit();
 
 	// exit;
-
+// 	echo "<pre>";
+// var_dump($_SERVER);exit;
 defined('URL') || define('URL', $_SERVER['REQUEST_SCHEME']."://".$_SERVER['HTTP_HOST']);
+// .$_SERVER['REQUEST_URI']
+// echo URL;exit;
 
 ?>
 <!DOCTYPE html>
+<!--[if IE]><![endif]-->
 <!--[if IE]><![endif]-->
 <!--[if IE 8 ]><html dir="ltr" lang="pt-br" class="ie8"><![endif]-->
 <!--[if IE 9 ]><html dir="ltr" lang="pt-br" class="ie9"><![endif]-->
@@ -49,9 +53,9 @@ defined('URL') || define('URL', $_SERVER['REQUEST_SCHEME']."://".$_SERVER['HTTP_
 			include_once "ementa.php";
 		echo "</div>";
 	
-	$none = (empty($_GET['take']))?"d-none":'';
-		echo "<div class='take $none'>";
-			include_once "take.php";
+	$none = (empty($_GET['snack']))?"d-none":'';
+		echo "<div class='snack $none'>";
+			include_once "snack.php";
 		echo "</div>";
 	?>
 		

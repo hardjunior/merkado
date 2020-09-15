@@ -7,7 +7,7 @@
     $subFamilia = [];
     $regiao     = [];
     $all        = [];
-    if (($handle = fopen("../images/lagoa/bd_take.csv", "r")) !== FALSE) {
+    if (($handle = fopen("../images/lagoa/bd_snack.csv", "r")) !== FALSE) {
         mb_convert_encoding($handle, 'UCS-2LE', 'UTF-8');
         while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
             $num = count($data);

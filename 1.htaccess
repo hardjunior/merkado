@@ -1,0 +1,56 @@
+ErrorDocument 400 https://merkadorestaurante.pt
+ErrorDocument 401 https://merkadorestaurante.pt
+ErrorDocument 403 https://merkadorestaurante.pt
+ErrorDocument 404 https://merkadorestaurante.pt
+ErrorDocument 500 https://merkadorestaurante.pt
+
+Options -Indexes
+
+RewriteEngine On
+
+# Redirecionar para HTTPS WC
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# 1 YEAR
+ExpiresActive On
+<FilesMatch "\.(otf|ico|pdf|flv)$">
+Header set Cache-Control "max-age=31536000, public"
+ExpiresDefault "access plus 1 years"
+Header unset Last-Modified
+Header unset ETag
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+# 1 MONTHS
+<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=2419200, public"
+ExpiresDefault "access plus 1 month"
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+<FilesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=604800, public"
+ExpiresDefault "access plus 1 week"
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+# 30 MIN
+<FilesMatch "\.(html|htm|php)$">
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+
+AddType application/x-web-app-manifest+json .webapp
+
+Rewritebase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.+)$ index.php?uri=$1 [QSA,L]

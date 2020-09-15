@@ -77,23 +77,23 @@
 	// 		success: function (data) {
 	// 			$(".conteudo").html(data);
 	// 			$(".conteudo").removeClass("d-none");;
-	// 		}
+	// 		} 
 	// 	});
 	// });
 	$(".btn-home").on("click",function(){
-		$(".take").addClass("d-none");
+		$(".snack").addClass("d-none");
 		$(".ementa").addClass("d-none");
 		$(".contacto").addClass("d-none");
 		$(".privacidade").addClass("d-none");
 	});
 	$(".btn-menu").on("click",function(){
 		$(".ementa").removeClass("d-none");
-		$(".take").addClass("d-none");
+		$(".snack").addClass("d-none");
 		$(".contacto").addClass("d-none");
 		$(".privacidade").addClass("d-none");
 	});
-	$(".btn-take").on("click",function(){
-		$(".take").removeClass("d-none");
+	$(".btn-snack").on("click",function(){
+		$(".snack").removeClass("d-none");
 		$(".ementa").addClass("d-none");
 		$(".contacto").addClass("d-none");
 		$(".privacidade").addClass("d-none");
@@ -101,12 +101,12 @@
 	$(".btn-contacto").on("click",function(){
 		$(".contacto").removeClass("d-none");
 		$(".ementa").addClass("d-none");
-		$(".take").addClass("d-none");
+		$(".snack").addClass("d-none");
 		$(".privacidade").addClass("d-none");
 	});
 	$(".btn-privacidade").on("click",function(){
 		$(".privacidade").removeClass("d-none");
-		$(".take").addClass("d-none");
+		$(".snack").addClass("d-none");
 		$(".ementa").addClass("d-none");
 		$(".contacto").addClass("d-none");
 	});

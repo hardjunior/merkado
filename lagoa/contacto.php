@@ -7,9 +7,8 @@
                         <h2 class="h4">Informação de Contacto</h2>
                     </div>
                     <div class="col-md-12 mb-3">
-                        <p><span>Endereço:</span> Avenida dos Engenheiros, n.º 13 A
-                            Venda do Valador 2665-542
-                            Venda Do Pinheiro
+                        <p><span>Endereço:</span> Aldeia dos Pescadores<br>
+                            2665-452 - Venda Do Valador<br>
                             Lisboa, Portugal</p>
                     </div>
                     <div class="col-md-12 mb-3">
